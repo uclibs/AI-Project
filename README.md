@@ -8,7 +8,7 @@ Potential implementation:
 1. User is sent an email with option to use the suggested metadata
 1. If accepted by the user, the suggested metadata is applied to the work
 
-Annif Worflow:
+## Annif Worflow:
 1. Install Annif: Annif can be installed on a server or a local machine. 
 1. Prepare your data: The input data should be in a specific format that Annif can understand. Currently, Annif supports the following formats: plain text, MARCXML, and RDF. You can also use external tools to convert your data into these formats.
 1. Create a project: A project in Annif represents a collection of documents that you want to index. To create a project, you need to define the following:
