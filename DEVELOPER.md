@@ -6,19 +6,41 @@
 1. Projects
 
 ## IDE:
-1. Ruby Mines and VStudio
+1. RubyMine and Visual Studio Coe
+   1. RubyMine (https://www.jetbrains.com/ruby/download/)
+   1. Visual Studio Code (https://code.visualstudio.com/Download)
 1. Co-pilot subscriptions
 1. Commenting and Debugging
     - Use comments to design your applications
 
 ## LLMs:
 
-1. Train the model: Once you have created a project, you need to train the model. This involves feeding the model with a set of training data that includes both input documents and their corresponding subject headings. Annif will use this data to learn the patterns and relationships between the input data and the assigned subject headings.
-
-1. Evaluate the model: After training the model, you should evaluate its performance using a separate set of data. The evaluation data should be similar to the training data, but should not be used during training. Annif provides various metrics to evaluate the performance of the model, such as precision, recall, and F1-score.
-
-1. Use the model: Once the model has been trained and evaluated, you can use it to automatically assign subject headings to new documents. Annif provides various ways to use the model, such as a command-line interface, a web-based interface, or an API.
-
+1.  Repository : https://huggingface.co/ 
+1.  The Bloke : https://huggingface.co/TheBloke 
+1.  Lone Striker : https://huggingface.co/LoneStriker 
+1.  WebGUI : https://github.com/oobabooga/text-generation-webui
+1.  Stable Diffusion : https://github.com/AUTOMATIC1111/stable-diffusion-webui 
+1.  Voice Changer : github.com/w-okada/voice-changer 
+1.  Real Time Voice : https://github.com/RVC-Project/Retrieval-based-VOice-Conversion-WebUI 
+1.  RVC : voice-models.com  and weighs.gg
+1.  Stable Diffusion (Stability) : https://stablediffusionweb.com/  or civitai.com
+1.  Watson (IBM) : https://www.ibm.com/products/watson-explorer 
+1.  Bard/Palm 2 (Google)
+1.  Aladin (BlackRock)
+1.  Mindjourney (MindJourney) : https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+1.  Kaaros
+1.  Tensor Flow (Google)
+1.  IRIS : https://iris.ai/      
+1.  Claude https://www.anthropic.com/index/claude-2
+1.  https://marketplace.atlassian.com/apps/1224655/scrum-maister?hosting=cloud&tab=overview
+1.  Bing (free)
+1.  Claude 2 (free) by Anthropic
+1.  Grok by X (Twitter)
+1.  Open-source models (FREE) available on Huggingface https://huggingface.co/
+1.  Llama 2 by Meta
+1.  Flan, Falcon, Orca, Beluga, Mistral, Mixtral, Phi2
+1.  LMStudio (Windows, Mac, Linux) - install and run models
+1.  Pinokio.computer browser - install and run models
 
 ## Prompting
 
@@ -58,8 +80,6 @@
    1. You used recursive, use iterative instead.
    1. Provide a code review focusing on adherence to ruby style guides.
 
-
-
 1. Generate a Factorial of a number
    1.  Write python code to generate a factorial of a number.
    1.  Let the user enter the intitial conditions.
@@ -68,9 +88,9 @@
 
 ## Projects
 
-1. ANNIF
-1. OCELOT
-1. Microsoft Co-pilot
+1. ANNIF (https://annif.org)
+1. OCELOT (https://ocelotbot.com/)
+1. Microsoft Co-pilot (https://copilot.microsoft.com)
+1. Power Automate (https://powerautomate.microsoft.com/)
 1. Changing the way Search works (Northwestern)
 1. Generative Scroll v Vector Search v Proximity v Closeness v .... 
-
